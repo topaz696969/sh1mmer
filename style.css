@@ -1,8 +1,14 @@
  html {
    background-color: Gray;
-   color: rgb(0, 0, 26);
+   color: Black;
   margin: 1rem;
   font-family: Courier New;
   line-height: 1.5; 
    font-size: 13px;
+}
+p1 {color: Black;
+  margin: 1rem;
+  font-family: Courier New;
+  line-height: 1.5; 
+   font-size: 27px 
 }
